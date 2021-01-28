@@ -6,10 +6,13 @@ $(function() {
         navText: ['<', '>'],
         dots:false,
         responsive:{
-            600:{
+            320:{
+                items:1
+            },
+            750:{
                 items:2
             },
-            880:{
+            940:{
                 items:3
             },
             1150:{
