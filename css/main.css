@@ -484,6 +484,16 @@ ul.socials {
     .courses-item img {
         margin: 15px 0 0 0;
     }
+    .header-menu ul {
+        display: block;
+    }
+    .header-menu li {
+        margin:0 0 10px 0;
+    }
+    .main {
+        border: none;
+    }
+
 }
 @media screen and (max-width: 450px) {
     .partners {
